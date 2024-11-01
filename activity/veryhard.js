@@ -37,7 +37,7 @@
                   window.location.replace(`https://game.granbluefantasy.jp/#${data.option.result_data.url}`)
               }else {
 //                 跳转到url
-                     location.hash = 'quest/supporter/917421/1'
+                     location.hash = 'quest/supporter/923621/1'
               }
           }
         })
